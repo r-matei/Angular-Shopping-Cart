@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5f841bd2ffe61129acd812a3"
+  },
+  "id": "1",
+  "name": "Pearly Queen Matte Black & Rose Gold",
+  "description": "For our latest innovation, a team of tiny bees and a scattering of sustainably-conscious Swarovski faux pearls come together to create these standout styles. Inspired by worker bees, a metallic black 34mm dial is embellished with rose gold bees, faux pearls and our signature script for a unique finish. Finished with a cool and contemporary Matte Black strap, this timepiece is guaranteed to elevate your everyday look.",
+  "price": 299.99,
+  "tax": 12.55,
+  "imageUrl": "https://us.oliviaburton.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw4c3f092c/images/products/OB16PQ02w_LRG_rgb_Web.jpg?sw=256&sh=256"
+},{
+  "_id": {
+    "$oid": "5f841bd2ffe61129acd812a4"
+  },
+  "id": "2",
+  "name": "Wishing Wave Midi Dial Rose Gold Mesh Watch",
+  "description": "Bring a little underwater magic to your wrist with our Under The Sea wishing watch. The ombré glitter dial mirrors the bluest blue of the ocean whilst the loose Swarovski crystals sparkle and glint like the foam on the waves. Shake it and make a wish. Classic rose gold casing and mesh strap make this special piece perfect for every day.",
+  "price": 349.9,
+  "tax": 15.29,
+  "imageUrl": "https://www.oliviaburton.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwf4bccb02/images/products/OB16EX204_1.jpg?sw=256&sh=256"
+},{
+  "_id": {
+    "$oid": "5f841bd2ffe61129acd812a5"
+  },
+  "id": "3",
+  "name": "Movado Connect 2.0",
+  "description": "Movado Connect 2.0 smartwatch, powered with Wear OS by Google™, Android/Apple iOS compatible, 40 mm pale yellow gold ion-plated stainless steel case with ceramic case back and round digital touchscreen dial featuring hundreds of customizable dial variations on a pale yellow gold ion-plated stainless steel interchangeable mesh bracelet.",
+  "price": 486.5,
+  "tax": 30.29,
+  "imageUrl": "https://www.movadocompanystore.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw5a7a7be8/images/products/3660027w_LRG_rgb_Web.png?sw=256&sh=256"
+},{
+  "_id": {
+    "$oid": "5f841bd2ffe61129acd812a6"
+  },
+  "id": "4",
+  "name": "Movado Bold Evolution",
+  "description": "Movado BOLD Evolution, 36 mm blue ceramic case and bracelet featuring a pale rose gold ion-plated stainless steel bezel & blue-toned dial.",
+  "price": 460.5,
+  "tax": 14.29,
+  "imageUrl": "https://i.pinimg.com/originals/8f/ef/9b/8fef9b3a2fdb04c774d4bdcbfac92160.png"
+},{
+  "_id": {
+    "$oid": "5f841bd2ffe61129acd812a7"
+  },
+  "id": "5",
+  "name": "Movado Edge",
+  "description": "Women's Movado Edge watch, 34mm stainless steel case and link bracelet with push-button deployment, silver-toned metallic Museum dial with flat dot, sapphire crystal, Swiss quartz movement",
+  "price": 238.5,
+  "tax": 21.99,
+  "imageUrl": "https://www.movadocompanystore.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw7d4775b1/images/products/3680012w_LRG_rgb_Web.jpg?sw=256&sh=256"
+},{
+  "_id": {
+    "$oid": "5f841bd2ffe61129acd812a8"
+  },
+  "id": "6",
+  "name": "Discovery",
+  "description": "Women's EBEL Discovery Lady watch, Stainless steel case, Ø 33.0mm, white mother-of-pearl dial with 11 diamonds (0.0715 ct), sapphire crystal with antireflective treatment underneath, stainless steel bracelet, Swiss quartz movement, water-resistant up to 100 Meter",
+  "price": 1900,
+  "tax": 39.5,
+  "imageUrl": "https://www.ebel.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw58e6b365/images/products/1216394w_LRG_rgb_Web.jpg?sw=256&sh=256"
+}]
